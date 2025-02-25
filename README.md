@@ -1,13 +1,15 @@
+````markdown name=README.md
 # Hi there, I'm Andrew! 👋
 
 I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. Here's a bit about me:
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++, TypeScript
+- **Languages:** JavaScript, Python, Java, C++, TypeScript, R
 - **Frameworks:** React, Node.js, Express, Spring Boot, Django
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure, Jenkins
 - **Other:** RESTful APIs, GraphQL, Microservices, Agile Methodologies
+- **Data Analysis:** Pandas, NumPy, RStudio, Matplotlib, Seaborn
 
 ## 🌱 Currently Learning
 - Rust
@@ -25,14 +27,26 @@ I'm a passionate software developer with a love for creating innovative solution
   - Enhanced application performance by optimizing database queries and implementing caching strategies.
   - Participated in code reviews and contributed to team knowledge sharing sessions.
 
-## 📈 GitHub Stats
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew0135&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew0135&layout=compact&theme=radical)
+## 📊 Data Viewing & Analysis
+- Utilized **Pandas** and **NumPy** for data manipulation and analysis in Python.
+- Created interactive visualizations and dashboards using **RStudio** and **Matplotlib**.
+- Conducted data cleaning, preprocessing, and exploratory data analysis to derive actionable insights.
+
+## 🕹️ Fun Mini-Game
+![Snake Game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## 📫 How to Reach Me
-- **Email:** andrew0135@example.com
-- **LinkedIn:** [linkedin.com/in/andrew0135](https://www.linkedin.com/in/andrew0135)
-- **Twitter:** [@andrew_dev](https://twitter.com/andrew_dev)
+<div align="center">
+  <a href="mailto:andrew0135@example.com">
+    <img src="https://img.shields.io/badge/Email-andrew0135%40example.com-blue?style=for-the-badge&logo=gmail" style="border-radius: 12px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/andrew0135">
+    <img src="https://img.shields.io/badge/LinkedIn-andrew0135-blue?style=for-the-badge&logo=linkedin" style="border-radius: 12px;" />
+  </a>
+  <a href="https://twitter.com/andrew_dev">
+    <img src="https://img.shields.io/badge/Twitter-%40andrew__dev-blue?style=for-the-badge&logo=twitter" style="border-radius: 12px;" />
+  </a>
+</div>
 
 ## 💡 Fun Facts
 - I'm a huge fan of open-source projects and love contributing to them.
@@ -40,4 +54,4 @@ I'm a passionate software developer with a love for creating innovative solution
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects!
 
-```` ▋
+````
