@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Hi there, I'm Andrew! 👋
 
 I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. Here's a bit about me:
@@ -53,5 +52,3 @@ I'm a passionate software developer with a love for creating innovative solution
 - In my free time, I enjoy hiking, reading tech blogs, and experimenting with new cooking recipes.
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects!
-
-````
